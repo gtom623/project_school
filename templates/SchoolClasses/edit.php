@@ -26,13 +26,10 @@
         'label' => 'Class name',
         'default' => $schoolClass->name,
     ]);
-
-    if (!$teachers->count()) {
-        echo 'No free teachers. Add a teacher ' . implode(', ', $missingClasses);
-    }
+ 
     echo $this->Form->control('teacher_id', [
         'options' => $teachers,
-        'label' => 'Free Teacher'
+        'label' => 'Teacher',
     ]);
     ?>
 </fieldset>

@@ -80,8 +80,9 @@ cd project_school
 ```
 ### Step 2: Build and run the containers
 
-In the repository directory, where the docker-compose.yml file is located, use the docker-compose command to build and run the containers:
+In the directory where the docker-compose.yml file is located within the repository, execute composer install to install the dependencies and then use the docker-compose command to build and run the containers:
 ```
+composer install
 docker-compose up --build
 ```
 The --build flag is used to build the images before running the containers.

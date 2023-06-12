@@ -150,8 +150,13 @@ class SchoolClassesController extends AppController
             $schoolClass = $this->SchoolClasses->get($id, [
                 'contain' => [],
             ]);
+            $teacherId = $schoolClass->teacher_id;
+            if ($teacherId) {
+                $teacher = $this->SchoolClasses->Teachers->get($teacherId);
+            }
             if ($this->request->is(['patch', 'post', 'put'])) {
                 $schoolClass = $this->SchoolClasses->patchEntity($schoolClass, $this->request->getData());
+
                 if ($this->SchoolClasses->save($schoolClass)) {
                     $this->Flash->success(__('The school class has been saved.'));
 
@@ -167,8 +172,8 @@ class SchoolClassesController extends AppController
             ])
                 ->notMatching('SchoolClasses')
                 ->all();
-
-            $availableClasses = Configure::read('SchoolClasses');
+          
+                $availableClasses = Configure::read('SchoolClasses');
 
             $existingClassesQuery = $this->SchoolClasses->find('list', ['valueField' => 'name']);
             $existingClasses = $existingClassesQuery->toArray();

@@ -25,12 +25,15 @@ class FackerController extends Controller
         $this->truncateTables();
         
         $knownCharacters = [
-            'Harry Potter',
-            'Sherlock Holmes',
-            'James Bond',
-            'Indiana Jones',
-            'Luke Skywalker',
-            'Frodo Baggins'
+            ['Arnold', 'Schwarzenegger','Male'],
+            ['Sherlock', 'Holmes','Male'],
+            ['James', 'Bond','Male'],
+            ['Indiana', 'Jones','Male'],
+            ['Luke', 'Skywalker','Male'],
+            ['Frodo', 'Baggins','Male'],
+            ['Uma', 'Thurman','Female'],
+            ['Angelina', 'Jolie','Female'],
+
         ];
 
         $this->Teachers = $this->getTableLocator()->get('Teachers');
@@ -39,11 +42,10 @@ class FackerController extends Controller
  
 
         
-        for ($i = 1; $i <= 6; $i++) {
-            $gender = (rand(0, 1) == 0) ? 'Male' : 'Female';
+        foreach($knownCharacters as $character) {
             $teacher = $this->Teachers->newEmptyEntity();
-            $teacher->first_name = $faker->firstName($gender);
-            $teacher->last_name = $faker->lastName;
+            $teacher->first_name = $character[0];
+            $teacher->last_name = $character[1];
             $this->Teachers->save($teacher);
         }
 
