@@ -1,6 +1,10 @@
 <div id="sidebar">
     <ul>
-        <li>
+    <li>
+        <a href='http://localhost:8765/'>Home</a>
+
+        </li>    
+    <li>
         <?= $this->Html->link('Teachers List', ['controller' => 'Teachers', 'action' => 'index']) ?>
 
         </li>
