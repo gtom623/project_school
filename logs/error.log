@@ -47127,3 +47127,208 @@ Stack Trace:
 
 Request URL: /vendor/fontawesome-free/css/all.min.css
 Referer URL: http://localhost:8765/students
+2023-06-12 10:32:58 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/error
+2023-06-12 10:33:01 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/error
+2023-06-12 10:33:04 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/error
+2023-06-12 10:33:06 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/
+2023-06-12 10:33:16 error: [Cake\Database\Exception\MissingConnectionException] Connection to Mysql could not be established: SQLSTATE[HY000] [1049] Unknown database 'school_db' in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Database\Driver.php on line 133
+Exception Attributes: array (
+  'driver' => 'Mysql',
+  'reason' => 'SQLSTATE[HY000] [1049] Unknown database \'school_db\'',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Database\Driver\Mysql.php:164
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Database\Schema\SchemaDialect.php:51
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Database\Driver\Mysql.php:216
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Database\Schema\Collection.php:53
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Database\Connection.php:418
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\ORM\Table.php:520
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\ORM\Query.php:290
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\ORM\Query.php:184
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\ORM\Table.php:1700
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\ORM\Table.php:1255
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\ORM\Association.php:874
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\ORM\Association.php:889
+- C:\xampp\htdocs\school\src\Controller\Api\ApiStudentsController.php:203
+- C:\xampp\htdocs\school\src\Controller\Api\ApiStudentsController.php:161
+- C:\xampp\htdocs\school\src\Controller\Api\ApiStudentsController.php:112
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\Controller.php:547
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:139
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Caused by: [PDOException] SQLSTATE[HY000] [1049] Unknown database 'school_db' in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Database\Driver.php on line 121
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Database\Driver.php:121
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Core\Retry\CommandRetry.php:70
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Database\Driver.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Database\Driver\Mysql.php:164
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Database\Schema\SchemaDialect.php:51
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Database\Driver\Mysql.php:216
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Database\Schema\Collection.php:53
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Database\Connection.php:418
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\ORM\Table.php:520
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\ORM\Query.php:290
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\ORM\Query.php:184
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\ORM\Table.php:1700
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\ORM\Table.php:1255
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\ORM\Association.php:874
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\ORM\Association.php:889
+- C:\xampp\htdocs\school\src\Controller\Api\ApiStudentsController.php:203
+- C:\xampp\htdocs\school\src\Controller\Api\ApiStudentsController.php:161
+- C:\xampp\htdocs\school\src\Controller\Api\ApiStudentsController.php:112
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\Controller.php:547
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:139
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /api/students?class_name=1A
+Referer URL: http://localhost:8765/swagger-ui/index.html
