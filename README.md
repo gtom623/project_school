@@ -41,7 +41,7 @@ This repository contains the source code for the Project School application, whi
 ### Step 4: Configure the database connection by editing the `config/app_local.php`.
  
  !!Change the host field to localhost!!
- 
+ ```
    'Datasources' => [
         'default' => [
         'host' => 'school-db',   => 'localhost'
@@ -51,6 +51,7 @@ This repository contains the source code for the Project School application, whi
         'database' => 'school_db',
     ]
    ]
+   ```
 ### Step 5: Run the migrations to create the tables in the database.
     ```
     bin/cake migrations migrate
