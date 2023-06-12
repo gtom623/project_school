@@ -1,0 +1,49 @@
+
+# Project "School"
+
+## Introduction
+
+The "School" project is a web application created using the CakePHP framework.
+
+## Features
+
+1. **Student Management**: Ability to add, edit, delete, and browse information about students.
+2. **Teacher Management:**: Ability to add, edit, delete, and browse information about teachers.
+3. **Class Management**: Ability to add, edit, delete, and browse information about classes.
+4. **Data Retrieval API**: The application provides an API that allows retrieving information about teachers and students in JSON format.
+5. **API Documentation with Swagger UI**: The application includes a Swagger UI interface that allows browsing and testing API endpoints in a user-friendly manner. Users can browse the available API resources, request and response structures, as well as execute requests directly from the Swagger UI interface.
+
+## Requirements
+
+- PHP >= 8.2.0
+- MySQL version 10.4.27-MariaDB
+- Composer
+
+## Installation
+
+1. Clone the repository to your server or local development environment.
+    ```
+    git clone https://github.com/gtom623/school/
+    ```
+2. Navigate to the project directory.
+    ```
+    cd school
+    ```
+3. Install dependencies using Composer
+    ```
+    composer install
+    ```
+4. Configure the database connection by editing the `config/app.php`.
+5. Run the migrations to create the tables in the database.
+    ```
+    bin/cake migrations migrate
+    ```
+6. Start the development server.
+    ```
+    bin/cake server
+    ```
+
+## Usage
+
+After starting the server, open your browser and go to `http://localhost:8765` to access the application.
+

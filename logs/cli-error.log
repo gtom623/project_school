@@ -1,0 +1,16 @@
+2023-06-06 09:55:46 error: [Symfony\Component\Console\Exception\RuntimeException] No arguments expected for "rollback" command, got "all". in C:\xampp\htdocs\cinkciarzSchool\vendor\symfony\console\Input\ArgvInput.php on line 196
+Stack Trace:
+- C:\xampp\htdocs\cinkciarzSchool\vendor\symfony\console\Input\ArgvInput.php:89
+- C:\xampp\htdocs\cinkciarzSchool\vendor\symfony\console\Input\ArgvInput.php:74
+- C:\xampp\htdocs\cinkciarzSchool\vendor\symfony\console\Input\Input.php:55
+- C:\xampp\htdocs\cinkciarzSchool\vendor\symfony\console\Command\Command.php:285
+- C:\xampp\htdocs\cinkciarzSchool\vendor\symfony\console\Application.php:1063
+- C:\xampp\htdocs\cinkciarzSchool\vendor\symfony\console\Application.php:320
+- C:\xampp\htdocs\cinkciarzSchool\vendor\symfony\console\Application.php:174
+- C:\xampp\htdocs\cinkciarzSchool\vendor\cakephp\migrations\src\Command\MigrationsCommand.php:126
+- C:\xampp\htdocs\cinkciarzSchool\vendor\cakephp\cakephp\src\Console\BaseCommand.php:189
+- C:\xampp\htdocs\cinkciarzSchool\vendor\cakephp\migrations\src\Command\MigrationsCommand.php:198
+- C:\xampp\htdocs\cinkciarzSchool\vendor\cakephp\cakephp\src\Console\CommandRunner.php:334
+- C:\xampp\htdocs\cinkciarzSchool\vendor\cakephp\cakephp\src\Console\CommandRunner.php:172
+- C:\xampp\htdocs\cinkciarzSchool\bin\cake.php:12
+
