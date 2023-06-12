@@ -15,6 +15,9 @@
     } ?>
     <?php
     echo $this->Form->control('name', ['options' => $missingClasses]);
+     if (empty($teachers->count())) {
+        echo 'There are no free teachers. Add a teacher.';
+    } 
     echo $this->Form->control('teacher_id', ['options' => $teachers]);
     ?>
 </fieldset>

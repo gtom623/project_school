@@ -44156,3 +44156,2974 @@ Stack Trace:
 
 Request URL: /vendor/fontawesome-free/css/all.min.css
 Referer URL: http://localhost:8765/teachers
+2023-06-12 09:36:43 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/
+2023-06-12 09:38:12 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/students
+2023-06-12 09:38:14 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/teachers
+2023-06-12 09:38:16 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/school-classes
+2023-06-12 09:39:26 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/school-classes
+2023-06-12 09:39:28 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/teachers
+2023-06-12 09:39:34 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/students
+2023-06-12 09:39:37 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/teachers
+2023-06-12 09:39:39 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/students
+2023-06-12 09:39:41 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/school-classes
+2023-06-12 09:39:50 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/
+2023-06-12 09:43:02 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/teachers
+2023-06-12 09:43:07 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/students
+2023-06-12 09:43:08 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/school-classes
+2023-06-12 09:52:27 warning: Undefined variable $validationError
+Request URL: /api/teachers
+Referer URL: http://localhost:8765/swagger-ui/index.html
+Trace:
+App\Controller\Api\ApiTeachersController::index() C:\xampp\htdocs\school\src\Controller\Api\ApiTeachersController.php, line 78
+Cake\Controller\Controller::invokeAction() C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\Controller.php, line 547
+Cake\Controller\ControllerFactory::handle() C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 139
+Cake\Controller\ControllerFactory::invoke() C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 114
+Cake\Http\BaseApplication::handle() C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 320
+Cake\Http\Runner::handle() C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php, line 86
+Cake\Http\Middleware\CsrfProtectionMiddleware::process() C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php, line 174
+Cake\Http\Runner::handle() C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Middleware\BodyParserMiddleware::process() C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php, line 157
+Cake\Http\Runner::handle() C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Routing\Middleware\RoutingMiddleware::process() C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php, line 186
+Cake\Http\Runner::handle() C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Routing\Middleware\AssetMiddleware::process() C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php, line 68
+Cake\Http\Runner::handle() C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Error\Middleware\ErrorHandlerMiddleware::process() C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php, line 131
+Cake\Http\Runner::handle() C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+DebugKit\Middleware\DebugKitMiddleware::process() C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php, line 60
+Cake\Http\Runner::handle() C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner::run() C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php, line 67
+Cake\Http\Server::run() C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php, line 90
+[main] C:\xampp\htdocs\school\webroot\index.php, line 40
+
+2023-06-12 09:52:27 warning: Trying to access array offset on value of type null
+Request URL: /api/teachers
+Referer URL: http://localhost:8765/swagger-ui/index.html
+Trace:
+App\Controller\Api\ApiTeachersController::index() C:\xampp\htdocs\school\src\Controller\Api\ApiTeachersController.php, line 78
+Cake\Controller\Controller::invokeAction() C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\Controller.php, line 547
+Cake\Controller\ControllerFactory::handle() C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 139
+Cake\Controller\ControllerFactory::invoke() C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 114
+Cake\Http\BaseApplication::handle() C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 320
+Cake\Http\Runner::handle() C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php, line 86
+Cake\Http\Middleware\CsrfProtectionMiddleware::process() C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php, line 174
+Cake\Http\Runner::handle() C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Middleware\BodyParserMiddleware::process() C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php, line 157
+Cake\Http\Runner::handle() C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Routing\Middleware\RoutingMiddleware::process() C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php, line 186
+Cake\Http\Runner::handle() C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Routing\Middleware\AssetMiddleware::process() C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php, line 68
+Cake\Http\Runner::handle() C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Error\Middleware\ErrorHandlerMiddleware::process() C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php, line 131
+Cake\Http\Runner::handle() C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+DebugKit\Middleware\DebugKitMiddleware::process() C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php, line 60
+Cake\Http\Runner::handle() C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner::run() C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php, line 67
+Cake\Http\Server::run() C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php, line 90
+[main] C:\xampp\htdocs\school\webroot\index.php, line 40
+
+2023-06-12 09:52:27 warning: Unable to emit headers. Headers sent in file=C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Renderer\HtmlErrorRenderer.php line=36
+Request URL: /api/teachers
+Referer URL: http://localhost:8765/swagger-ui/index.html
+Trace:
+Cake\Http\ResponseEmitter::emit() C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 71
+Cake\Http\Server::emit() C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php, line 128
+[main] C:\xampp\htdocs\school\webroot\index.php, line 40
+
+2023-06-12 09:52:27 warning: Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Renderer\HtmlErrorRenderer.php:36)
+Request URL: /api/teachers
+Referer URL: http://localhost:8765/swagger-ui/index.html
+Trace:
+header [internal], line ??
+Cake\Http\ResponseEmitter::emitStatusLine() C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 164
+Cake\Http\ResponseEmitter::emit() C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 74
+Cake\Http\Server::emit() C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php, line 128
+[main] C:\xampp\htdocs\school\webroot\index.php, line 40
+
+2023-06-12 09:52:27 warning: Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Renderer\HtmlErrorRenderer.php:36)
+Request URL: /api/teachers
+Referer URL: http://localhost:8765/swagger-ui/index.html
+Trace:
+header [internal], line ??
+Cake\Http\ResponseEmitter::emitHeaders() C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 197
+Cake\Http\ResponseEmitter::emit() C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 75
+Cake\Http\Server::emit() C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php, line 128
+[main] C:\xampp\htdocs\school\webroot\index.php, line 40
+
+2023-06-12 09:52:27 warning: Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Renderer\HtmlErrorRenderer.php:36)
+Request URL: /api/teachers
+Referer URL: http://localhost:8765/swagger-ui/index.html
+Trace:
+header [internal], line ??
+Cake\Http\ResponseEmitter::emitHeaders() C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 197
+Cake\Http\ResponseEmitter::emit() C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 75
+Cake\Http\Server::emit() C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php, line 128
+[main] C:\xampp\htdocs\school\webroot\index.php, line 40
+
+2023-06-12 09:56:45 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/
+2023-06-12 09:56:52 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/students
+2023-06-12 10:00:12 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/
+2023-06-12 10:00:18 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/teachers
+2023-06-12 10:00:22 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/teachers
+2023-06-12 10:00:26 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/teachers/view/4
+2023-06-12 10:00:32 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/school-classes
+2023-06-12 10:00:38 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/teachers
+2023-06-12 10:00:43 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/teachers
+2023-06-12 10:00:51 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/school-classes
+2023-06-12 10:00:55 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/school-classes/add
+2023-06-12 10:02:59 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/error
+2023-06-12 10:03:10 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/students
+2023-06-12 10:03:32 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/school-classes
+2023-06-12 10:03:34 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/school-classes/add
+2023-06-12 10:07:37 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/school-classes/add
+2023-06-12 10:07:42 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/teachers
+2023-06-12 10:07:45 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/teachers/add
+2023-06-12 10:07:52 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/teachers
+2023-06-12 10:07:54 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/students
+2023-06-12 10:07:57 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/school-classes
+2023-06-12 10:07:59 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/school-classes/add
+2023-06-12 10:08:07 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/school-classes
+2023-06-12 10:08:13 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/school-classes/view/7
+2023-06-12 10:08:20 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/teachers
+2023-06-12 10:08:27 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/school-classes
+2023-06-12 10:08:29 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/school-classes/edit/2
+2023-06-12 10:08:42 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/school-classes
+2023-06-12 10:08:44 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/school-classes/view/6
+2023-06-12 10:09:09 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/school-classes/view/6
+2023-06-12 10:09:30 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/school-classes/view/6
+2023-06-12 10:09:35 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/school-classes
+2023-06-12 10:09:40 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/school-classes/view/4
+2023-06-12 10:09:47 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/teachers
+2023-06-12 10:12:44 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/school-classes
+2023-06-12 10:12:51 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/school-classes
+2023-06-12 10:13:00 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/school-classes
+2023-06-12 10:13:10 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/students
+2023-06-12 10:13:20 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/students
+2023-06-12 10:13:24 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/teachers
+2023-06-12 10:13:40 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/teachers
+2023-06-12 10:13:49 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/teachers/view/2
+2023-06-12 10:13:54 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/teachers
+2023-06-12 10:13:57 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/teachers/view/3
+2023-06-12 10:13:59 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/teachers
+2023-06-12 10:14:01 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/school-classes
+2023-06-12 10:14:04 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/teachers
+2023-06-12 10:14:10 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/teachers
+2023-06-12 10:14:15 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/school-classes
+2023-06-12 10:14:40 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/teachers
+2023-06-12 10:14:47 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/teachers
+2023-06-12 10:14:49 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/school-classes
+2023-06-12 10:15:11 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/school-classes
+2023-06-12 10:15:14 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/teachers
+2023-06-12 10:15:37 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/students
+2023-06-12 10:15:43 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/students?page=3
+2023-06-12 10:15:48 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/teachers
+2023-06-12 10:15:51 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/students
+2023-06-12 10:15:53 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/teachers
+2023-06-12 10:19:38 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/school-classes
+2023-06-12 10:19:42 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/teachers
+2023-06-12 10:19:46 error: An unexpected error occurred: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`school_db`.`school_classes`, CONSTRAINT `school_classes_ibfk_1` FOREIGN KEY (`teacher_id`) REFERENCES `teachers` (`id`) ON DELETE CASCADE ON UPDATE NO ACTION)
+2023-06-12 10:19:47 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/teachers
+2023-06-12 10:20:02 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/students
+2023-06-12 10:20:05 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/teachers
+2023-06-12 10:20:07 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/school-classes
+2023-06-12 10:20:35 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/teachers
+2023-06-12 10:20:38 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/school-classes
+2023-06-12 10:20:41 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/school-classes
+2023-06-12 10:20:45 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/teachers
+2023-06-12 10:21:03 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/students
+2023-06-12 10:21:07 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/school-classes
+2023-06-12 10:21:11 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/teachers
+2023-06-12 10:21:14 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/school-classes
+2023-06-12 10:21:16 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/school-classes/add
+2023-06-12 10:21:24 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/school-classes
+2023-06-12 10:21:26 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/students
+2023-06-12 10:21:28 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/students/add
+2023-06-12 10:21:43 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/students
+2023-06-12 10:22:12 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/students/add
+2023-06-12 10:22:22 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/students
+2023-06-12 10:22:31 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/teachers
+2023-06-12 10:23:11 error: [Cake\Http\Exception\MissingControllerException] Controller class Vendor could not be found. in C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Vendor',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Vendor',
+)
+Stack Trace:
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\school\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\school\webroot\index.php:40
+
+Request URL: /vendor/fontawesome-free/css/all.min.css
+Referer URL: http://localhost:8765/students

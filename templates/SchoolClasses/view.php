@@ -38,7 +38,7 @@
                             <?= $this->Html->link('∨', ['action' => 'view', $schoolClass->id, '?' => ['sort' => 'gender', 'direction' => 'desc']], ['escape' => false]) ?>
    
                         </th>
-                            <th><?= __('School Class Id') ?></th>
+                          
                             <th><?= __('Language Group') ?></th>
                             <th class="actions"><?= __('Actions') ?></th>
                         </tr>
@@ -48,7 +48,7 @@
                             <td><?= h($students->first_name) ?></td>
                             <td><?= h($students->last_name) ?></td>
                             <td><?= h($students->gender) ?></td>
-                            <td><?= h($students->school_class_id) ?></td>
+                          
                             <td><?= h($students->language_group) ?></td>
                             <td class="actions">
                                 <?= $this->Html->link(__('View'), ['controller' => 'Students', 'action' => 'view', $students->id]) ?>

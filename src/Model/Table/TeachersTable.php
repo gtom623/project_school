@@ -5,9 +5,12 @@ declare(strict_types=1);
 namespace App\Model\Table;
 
 use App\Model\Entity\SchoolClass;
+use Cake\Datasource\EntityInterface;
+use Cake\Event\EventInterface;
 use Cake\ORM\Query;
 use Cake\ORM\RulesChecker;
 use Cake\ORM\Table;
+use Cake\ORM\TableRegistry;
 use Cake\Validation\Validator;
 
 /**
@@ -47,9 +50,12 @@ class TeachersTable extends Table
 
         $this->hasOne('SchoolClasses', [
             'foreignKey' => 'teacher_id',
+            'dependent' => false,
+            'cascadeCallbacks' => false, 
         ]);
-    }
 
+    }
+  
     /**
      * Default validation rules.
      *

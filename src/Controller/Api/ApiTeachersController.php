@@ -69,6 +69,7 @@ class ApiTeachersController extends AppController
      */
     public function index()
     {
+
         /*
         Get and process input parameters
         */
@@ -85,7 +86,8 @@ class ApiTeachersController extends AppController
             return $this->response
                 ->withStatus($validationError['status'])
                 ->withType('application/json')
-                ->withStringBody(json_encode(['error' => $validationError['message'], 'valid_parameters' => $validationError['valid_parameters'] ?? null]));
+                ->withStringBody(json_encode(['error' => $validationError['message'], 'valid_parameters' => $validationError['valid_parameters'] ?? null]))
+                ->withStatus(400);
         }
         /*
         Perform database query
@@ -103,6 +105,15 @@ class ApiTeachersController extends AppController
             if (in_array('class_information', $extrasArray) && in_array('students_details', $extrasArray)) {
                 $teachers = $this->Teachers->multipleExtrasParameter();
             }
+        }
+        /*
+    Check if teachers are empty and return appropriate response
+    */
+        if (empty($teachers)) {
+            return $this->response
+                ->withType('application/json')
+                ->withStringBody(json_encode(['error' => 'Teachers not found']))
+                ->withStatus(404);
         }
         /*
        Return data as JSON
