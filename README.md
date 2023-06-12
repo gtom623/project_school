@@ -74,7 +74,7 @@ After starting the server, open your browser and go to `http://localhost:8765` t
 ## Requirements
 
 - [Docker](https://www.docker.com/products/docker-desktop)
-- [Git](https://git-scm.com/downloads) (opcjonalnie, jeśli pobierasz repozytorium przez przeglądarkę nie jest wymagany)
+
 
 ## How to Run
 
