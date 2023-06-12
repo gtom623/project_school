@@ -38,7 +38,6 @@ return [
         'default' => [
         'host' => 'school-db',
       //'host' => 'localhost',
-        'port' => 3306,
         'username' => 'school',
         'password' => 'school',
         'database' => 'school_db',

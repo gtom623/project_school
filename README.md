@@ -45,7 +45,6 @@ This repository contains the source code for the Project School application, whi
    'Datasources' => [
         'default' => [
         'host' => 'school-db',   => 'localhost'
-        'port' => 3306,
         'username' => 'school',
         'password' => 'school',
         'database' => 'school_db',
