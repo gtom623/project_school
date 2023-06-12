@@ -25,7 +25,7 @@ return [
      *   You should treat it as extremely sensitive data.
      */
     'Security' => [
-        'salt' => env('SECURITY_SALT', '6c6a71ef791d9671c5b4c005b2f592d385cd6ef4435168450528850497e0bb9b'),
+        'salt' => env('SECURITY_SALT', '__SALT__'),
     ],
 
     /*
@@ -44,9 +44,10 @@ return [
              */
             //'port' => 'non_standard_port_number',
 
-            'username' => 'school',
-            'password' => 'school',
-            'database' => 'school_db',
+            'username' => 'my_app',
+            'password' => 'secret',
+
+            'database' => 'my_app',
             /*
              * If not using the default 'public' schema with the PostgreSQL driver
              * set it here.

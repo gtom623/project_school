@@ -1,0 +1,130 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "title": "School API",
+        "version": "0.1"
+    },
+    "paths": {
+        "/api/students": {
+            "get": {
+                "tags": [
+                    "Students"
+                ],
+                "summary": "Get list of students",
+                "description": "Returns a list of students.",
+                "operationId": "getStudents",
+                "parameters": [
+                    {
+                        "name": "class_name",
+                        "in": "query",
+                        "description": "Class name",
+                        "required": true,
+                        "schema": {
+                            "type": "string",
+                            "enum": [
+                                "1A",
+                                "1B",
+                                "1C",
+                                "1D",
+                                "1E",
+                                "1F"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "language_group",
+                        "in": "query",
+                        "required": false,
+                        "schema": {
+                            "type": "string",
+                            "enum": [
+                                "english",
+                                "german"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "sort",
+                        "in": "query",
+                        "description": "Sort by field. If this parameter is set, you can use the 'direction' parameter to specify the sort direction.",
+                        "required": false,
+                        "schema": {
+                            "type": "string",
+                            "enum": [
+                                "gender",
+                                "first_name",
+                                "last_name"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "direction",
+                        "in": "query",
+                        "description": "Sort direction. Can be 'asc' or 'desc'. This parameter is used only if the 'sort' parameter is set.",
+                        "required": false,
+                        "schema": {
+                            "type": "string",
+                            "enum": [
+                                "asc",
+                                "desc"
+                            ]
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "List of students"
+                    },
+                    "400": {
+                        "description": "Invalid request"
+                    },
+                    "404": {
+                        "description": "Students not found"
+                    }
+                }
+            }
+        },
+        "/api/teachers": {
+            "get": {
+                "tags": [
+                    "Teachers"
+                ],
+                "summary": "Get list of teachers",
+                "description": "Returns a list of teachers and extra information if is set.",
+                "operationId": "getTeachers",
+                "parameters": [
+                    {
+                        "name": "extras",
+                        "in": "query",
+                        "description": "Additional extra information may include parameters (after a comma): class_information, students_details",
+                        "required": false,
+                        "schema": {
+                            "type": "string"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "List of teachers"
+                    },
+                    "400": {
+                        "description": "Invalid request"
+                    },
+                    "404": {
+                        "description": "Teachers not found"
+                    }
+                }
+            }
+        }
+    },
+    "tags": [
+        {
+            "name": "Students",
+            "description": "Informations about students"
+        },
+        {
+            "name": "Teachers",
+            "description": "Informations about teachers"
+        }
+    ]
+}

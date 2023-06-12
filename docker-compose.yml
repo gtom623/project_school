@@ -1,0 +1,26 @@
+version: '3'
+
+services:
+  web:
+    build: .
+    ports:
+      - "8000:80"
+    volumes:
+      - .:/var/www/html
+    depends_on:
+      - db
+    environment:
+      - DEBUG=true
+
+  db:
+    image: mysql:5.7
+    environment:
+      - MYSQL_ROOT_PASSWORD=sgT2bZ??kgbw6AC
+      - MYSQL_DATABASE=cinkciarz_school_db
+      - MYSQL_USER=school
+      - MYSQL_PASSWORD=sgT2bZ??kgbw6AC
+    volumes:
+      - db_data:/var/lib/mysql
+
+volumes:
+  db_data:
