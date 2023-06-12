@@ -71,9 +71,6 @@ After starting the server, open your browser and go to `http://localhost:8765` t
 
 - [Docker](https://www.docker.com/products/docker-desktop)
 
-
-## How to Run
-
 ### Step 1: Clone the repository
 
 Clone this repository onto your local machine using git. Open the terminal and enter:
