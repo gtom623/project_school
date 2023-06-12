@@ -5,7 +5,7 @@
  * @var \App\Model\Entity\SchoolClass $schoolClass
  * @var string[]|\Cake\Collection\CollectionInterface $teachers
  */
-debug($schoolClass->name);
+
 ?>
 
 <?= $this->Form->postLink(
