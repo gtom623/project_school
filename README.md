@@ -21,19 +21,16 @@ This repository contains the source code for the Project School application, whi
 
 ## 1 Installation (first installation method)
 
-1. Clone the repository to your server or local development environment.
+### Step 1: Clone the repository to your server or local development environment.
     ```
     git clone https://github.com/gtom623/project_school.git
-    ```
-2. Navigate to the project directory.
-    ```
     cd project_school
     ```
-3. Install dependencies using Composer
+### Step 2: Install dependencies using Composer
     ```
     composer install
     ```
-4. Create a MySQL user and database with phpMyAdmin
+### Step 3: Create a MySQL user and database with phpMyAdmin
     ```
     CREATE USER 'school'@'localhost' IDENTIFIED BY 'school';
     CREATE DATABASE school_db;
@@ -41,26 +38,24 @@ This repository contains the source code for the Project School application, whi
     FLUSH PRIVILEGES;
     
     ```
-4. Configure the database connection by editing the `config/app_local.php`.
+### Step 4: Configure the database connection by editing the `config/app_local.php`.
  
-   !!! If you have created a user named 'school' with the password 'school', and a database named 'school_db', you can skip this step. No change in the configuration file will b necessary. !!!
+ !!Change the host field to localhost!!
  
-    'Datasources' => [
-
+   'Datasources' => [
         'default' => [
-            'host' => 'localhost',
-            'username' => 'school',
-            'password' => 'school',
-            'database' => 'school_db',
-            'url' => env('DATABASE_URL', null),
-        ],
+        'host' => 'school-db',   => 'localhost'
+        'port' => 3306,
+        'username' => 'school',
+        'password' => 'school',
+        'database' => 'school_db',
     ]
-
-5. Run the migrations to create the tables in the database.
+   ]
+### Step 5: Run the migrations to create the tables in the database.
     ```
     bin/cake migrations migrate
     ```
-6. Start the development server.
+### Step 6: Start the development server.
     ```
     bin/cake server
     ```
@@ -97,23 +92,24 @@ The --build flag is used to build the images before running the containers.
 Docker will create 3 containers:
 
  ✔ Container school-db                                                                                    
- ✔ Container school-phpmyadmin-1                                                                          
- ✔ Container school-school-1        
+ ✔ Container project_school-phpmyadmin-1                                                                          
+ ✔ Container project_school-school-1        
 
 ### Step 3: Run migrations to recreate the database structure
 ```
-  docker exec school-school-1  bin/cake migrations migrate
+  docker exec project_school-school-1  bin/cake migrations migrate
 ```
 ### Step 4: Open the application in your browser
 
 After the containers are up and running, your application should be accessible in the browser. Open your browser and go to:
 ```
-aplication homepage                                 - http://localhost:8765
-phpmyadmin   (school_db user: school pass:school)   - http://localhost:8080
+aplication homepage                                 -  http://localhost:8765
+phpmyadmin   (school_db user: school pass:school)   -  http://localhost:8080
 ```
 
 ### Stopping the Application
 To stop the application and remove the containers, open the terminal, navigate to the repository directory, and use the following command
 ```
 docker-compose down
+docker rmi project_school-school mysql phpmyadmin/phpmyadmin
 ```

@@ -36,21 +36,13 @@ return [
      */
     'Datasources' => [
         'default' => [
-            'host' => 'school-db',
+        'host' => 'school-db',
+      //'host' => 'localhost',
         'port' => 3306,
         'username' => 'school',
         'password' => 'school',
         'database' => 'school_db',
-        'encoding' => 'utf8mb4',
-        'timezone' => 'UTC',
-        'cacheMetadata' => true,
-        'quoteIdentifiers' => false,
-        'log' => false,
-          
-          
-          
-            //'host' => 'localhost',
-           // 'host' => 'school-db',
+
             /*
              * CakePHP will use the default DB port based on the driver selected
              * MySQL on MAMP uses port 8889, MAMP users will want to uncomment

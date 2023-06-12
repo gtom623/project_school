@@ -5,6 +5,7 @@
  * @var \App\Model\Entity\SchoolClass $schoolClass
  * @var string[]|\Cake\Collection\CollectionInterface $teachers
  */
+debug($schoolClass->name);
 ?>
 
 <?= $this->Form->postLink(
@@ -17,16 +18,13 @@
     <legend>
         <?= __('Edit Class') ?>
     </legend>
-    <?php if (!empty($missingClasses)) {
-        echo 'Class without a Teacher: ' . implode(', ', $missingClasses);
-    } else {
-        echo 'No free classes. Delete the class first';
-    } ?>
+
     <?php
 
     echo $this->Form->control('name', [
         'options' => $missingClasses,
-        'label' => 'Class name'
+        'label' => 'Class name',
+        'default' => $schoolClass->name,
     ]);
 
     if (!$teachers->count()) {

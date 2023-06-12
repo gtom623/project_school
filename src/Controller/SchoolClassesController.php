@@ -174,6 +174,7 @@ class SchoolClassesController extends AppController
             $existingClasses = $existingClassesQuery->toArray();
 
             $missingClasses = array_diff($availableClasses, $existingClasses);
+            $missingClasses [$schoolClass->name] = $schoolClass->name;
 
             $this->set(compact('schoolClass', 'teachers', 'missingClasses'));
             /**
