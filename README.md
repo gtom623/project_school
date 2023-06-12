@@ -96,9 +96,9 @@ The --build flag is used to build the images before running the containers.
 
 Docker will create 3 containers:
 
- ✔ Container school-db            Running                                                                         
- ✔ Container school-phpmyadmin-1  Running                                                                         
- ✔ Container school-school-1      Running  
+ ✔ Container school-db                                                                                    
+ ✔ Container school-phpmyadmin-1                                                                          
+ ✔ Container school-school-1        
 
 ### Step 3: Run migrations to recreate the database structure
 ```
